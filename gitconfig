@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = caroline.m.dana@gmail.com
+	name = Caroline Dana
